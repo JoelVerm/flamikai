@@ -1,0 +1,21 @@
+{
+    "name": "flamikai",
+    "displayName": "flamikai",
+    "description": "flamikai theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.74.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "flamikai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/flamikai-color-theme.json"
+            }
+        ]
+    }
+}
