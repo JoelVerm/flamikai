@@ -1,7 +1,6 @@
 {
     "name": "flamikai",
     "colors": {
-        //flat colors
         "editor.background": "#272822",
         "editorGroup.border": "#00000000",
         "activityBar.background": "#272822",
@@ -31,7 +30,6 @@
         "list.activeSelectionBackground": "#414339",
         "list.inactiveSelectionBackground": "#3e3d32",
         "minimap.selectionHighlight": "#00000000",
-        //terminal colors
         "terminal.ansiBlack": "#333333",
         "terminal.ansiBlue": "#6a7ec8",
         "terminal.ansiBrightBlack": "#666666",
